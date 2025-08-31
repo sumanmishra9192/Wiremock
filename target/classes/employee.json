@@ -1,0 +1,17 @@
+[
+{
+"id":1,
+"name" : "Sachin",
+"Dept" : "Cricket"
+},
+{
+"id":2,
+"name" : "Federer",
+"Dept" : "Tenis"
+},
+{
+"id":3,
+"name" : "Messi",
+"Dept" : "Football"
+}
+]

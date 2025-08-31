@@ -1,0 +1,26 @@
+{
+  "destination_addresses": [
+    "San Francisco, CA, USA"
+  ],
+  "origin_addresses": [
+    "Seattle, WA, USA"
+  ],
+  "rows": [
+    {
+      "elements": [
+        {
+          "distance": {
+            "text": "1,300 km",
+            "value": 1300000
+          },
+          "duration": {
+            "text": "12 hours 30 mins",
+            "value": 45000
+          },
+          "status": "OK"
+        }
+      ]
+    }
+  ],
+  "status": "OK"
+}

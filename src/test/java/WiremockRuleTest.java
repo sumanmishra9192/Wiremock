@@ -12,16 +12,16 @@ import static com.github.tomakehurst.wiremock.client.WireMock.*;
 
 public class WiremockRuleTest {
 
-    @Rule
+    //@Rule
     public WireMockRule wm = new WireMockRule(WireMockConfiguration.wireMockConfig().port(8081));
 
-    @Before
+    //@Before
     public void setUp() {
         wm.start();
         createStub();
     }
 
-    @After
+    //@After
     public void tearDown() {
         wm.stop();
     }
